@@ -1,0 +1,1 @@
+docker run --name bitly-clone-postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=your_password -e POSTGRES_DB=bitly_clone_db -p 5432:5432 -d postgres

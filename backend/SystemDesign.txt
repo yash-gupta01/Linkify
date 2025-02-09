@@ -1,0 +1,11 @@
+
+
+Linkify - Bitly Clone
+10,000+ RPS
+1B users
+100M DAU
+
+write are not that frequent - 10M per day
+reads - 8 B access per day
+
+k6 load-test.js
